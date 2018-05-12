@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2559
 description: Pamphlets such as this advised young women on how to prepare themselves
   for college and how to get the most from their college education.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18234#A-Girl-s-Student-Days-and-After
 gutenberg_issued: '2006-04-23'
 gutenberg_type: Text
 identifiers:
